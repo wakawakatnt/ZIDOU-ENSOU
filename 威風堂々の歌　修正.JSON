@@ -1,0 +1,6557 @@
+{
+  "title": "威風堂々の歌　修正",
+  "bpm": 120,
+  "defaultInstrument": "piano1",
+  "tracks": [
+    {
+      "name": "Track 1",
+      "notes": [
+        {
+          "notes": [
+            "F5",
+            "G#5",
+            "C6",
+            "F6"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 1.5,
+          "velocity": 80
+        },
+        {
+          "note": "D4",
+          "duration": 0.25,
+          "velocity": 80
+        },
+        {
+          "note": "E4",
+          "duration": 0.25,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "rest": 0.5
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "rest": 0.5
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 2,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 2,
+          "velocity": 80
+        },
+        {
+          "note": "C#5",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 80
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E3",
+            "G3",
+            "C4"
+          ],
+          "duration": 3,
+          "velocity": 80
+        },
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "G#3",
+            "C4",
+            "F4"
+          ],
+          "duration": 1.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4",
+            "F4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#3",
+            "C4",
+            "F4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E3",
+            "G3",
+            "C4"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E3",
+            "G3",
+            "C4"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G3",
+            "C4",
+            "E4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G3",
+            "C4",
+            "E4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#3",
+            "C4",
+            "F4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#3",
+            "C4",
+            "F4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#3",
+            "C4",
+            "F4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "rest": 0.8
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 0.33,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 0.33,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 0.33,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 0.33,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 0.33,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 0.33,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "C#4",
+            "F4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "G3",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#3",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "C4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "G4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "G#4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "G4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#3",
+            "C4",
+            "F4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "G4",
+            "C4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "G4",
+            "C4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "G4",
+            "C4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "G4",
+            "C4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "G4",
+            "C4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "G#4",
+            "C4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.6,
+          "velocity": 80
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "D4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "E4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C#5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "A#4",
+            "D#5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "G#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "C4"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "C6"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C6",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "rest": 0.3
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "E4",
+            "G4",
+            "A#4",
+            "C5"
+          ],
+          "duration": 0.3,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "F4",
+            "G#4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#4",
+            "C#5",
+            "F5",
+            "A#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#4",
+            "C#5",
+            "F5",
+            "A#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#4",
+            "C#5",
+            "F5",
+            "A#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "A#4",
+            "C#5",
+            "F5",
+            "A#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 2,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "C6"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C6",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 0.4,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 2,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "E5",
+            "G5",
+            "C6"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C#4",
+            "F4",
+            "A#4",
+            "C#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "E4",
+            "G4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C4",
+            "C5"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "C6"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "C5",
+            "C6"
+          ],
+          "duration": 0.5,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G#4",
+            "C5",
+            "F5",
+            "G#5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "G4",
+            "C5",
+            "E5",
+            "G5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "notes": [
+            "F4",
+            "G#4",
+            "C5",
+            "F5"
+          ],
+          "duration": 1,
+          "velocity": 80
+        },
+        {
+          "rest": 1
+        }
+      ],
+      "instrument": "org1"
+    },
+    {
+      "name": "Track 2",
+      "notes": [
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C2",
+          "duration": 1.5,
+          "velocity": 70
+        },
+        {
+          "note": "D2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "E2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "rest": 0.5
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "rest": 0.5
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 2,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "A#2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "D2",
+            "D3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "E3",
+            "E2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G2",
+            "G1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#1",
+            "G#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "D#3",
+            "D#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "D#2",
+            "D#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C#3",
+            "C#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C#2",
+            "C#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 2,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "E2",
+            "E3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "E3",
+            "E2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G3",
+            "G2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G3",
+            "G2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G3",
+            "G2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G3",
+            "G2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#2",
+            "G#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#1",
+            "G#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#3",
+            "G#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G2",
+            "G3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "E2",
+            "E3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "D2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "D#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "A#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C#2",
+            "C#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "D#3",
+            "D#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#3",
+            "G#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G2",
+            "G3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C#2",
+            "C#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C#2",
+            "C#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "E3",
+            "E2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#2",
+            "G#3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G3",
+            "G2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C2",
+          "duration": 0.75,
+          "velocity": 70
+        },
+        {
+          "note": "E2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "E2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 0.75,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "F2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "G#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "A#2",
+          "duration": 0.75,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "C#3",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "note": "C#3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C#3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "A#2",
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "note": "C3",
+          "duration": 0.75,
+          "velocity": 70
+        },
+        {
+          "note": "G2",
+          "duration": 0.25,
+          "velocity": 70
+        },
+        {
+          "note": "C2",
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F3",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G2",
+            "G1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#1",
+            "G#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#2",
+            "A#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 0.5,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G1",
+            "G2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "G#2",
+            "G#1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "A#1",
+            "A#2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C2",
+            "C3"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "C3",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F1",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "notes": [
+            "F2",
+            "F1"
+          ],
+          "duration": 1,
+          "velocity": 70
+        },
+        {
+          "rest": 1
+        }
+      ],
+      "instrument": "org2"
+    },
+    {
+      "name": "Track 3",
+      "notes": [
+        {
+          "rest": 12.7
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.2
+        },
+        {
+          "note": "F4",
+          "duration": 1.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G#4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "F4",
+          "duration": 1.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G#4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "F4",
+          "duration": 1.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "A#4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G#4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G#4",
+          "duration": 2,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "C5",
+          "duration": 0.5,
+          "velocity": 127
+        },
+        {
+          "note": "G#4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "G4",
+          "duration": 1,
+          "velocity": 127
+        },
+        {
+          "note": "F4",
+          "duration": 3,
+          "velocity": 127
+        },
+        {
+          "rest": 1.3
+        }
+      ],
+      "instrument": "piano1"
+    },
+    {
+      "name": "Track 4",
+      "notes": [
+        {
+          "rest": 88
+        },
+        {
+          "note": "C4",
+          "duration": 4,
+          "velocity": 80
+        }
+      ],
+      "instrument": "org1"
+    },
+    {
+      "name": "Track 5",
+      "notes": [
+        {
+          "rest": 48.1
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "rest": 2.1
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "E3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "E3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 2,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 3,
+          "velocity": 90
+        },
+        {
+          "rest": 1
+        },
+        {
+          "rest": 35.6
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "rest": 2.1
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "E3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "E3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 2,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 3,
+          "velocity": 90
+        },
+        {
+          "rest": 1
+        },
+        {
+          "rest": 35.6
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "rest": 2.1
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.3,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "A#3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "E3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "E3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 2,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 3,
+          "velocity": 90
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "note": "G#3",
+          "duration": 2,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C3",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "C4",
+          "duration": 0.5,
+          "velocity": 90
+        },
+        {
+          "note": "G#3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "G3",
+          "duration": 1,
+          "velocity": 90
+        },
+        {
+          "note": "F3",
+          "duration": 3,
+          "velocity": 90
+        },
+        {
+          "rest": 1.3
+        }
+      ],
+      "instrument": "str1"
+    },
+    {
+      "name": "Track 6",
+      "notes": [
+        {
+          "rest": 20.8
+        },
+        {
+          "note": "A#3",
+          "duration": 4,
+          "velocity": 80
+        }
+      ],
+      "instrument": "piano1"
+    },
+    {
+      "name": "Track 7",
+      "notes": [
+        {
+          "rest": 1
+        },
+        {
+          "notes": [
+            "C1",
+            "E1",
+            "G1"
+          ],
+          "duration": 1,
+          "velocity": 127
+        }
+      ],
+      "instrument": "chip3"
+    },
+    {
+      "name": "Track 8",
+      "notes": [
+        {
+          "rest": 81.2
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 75
+        },
+        {
+          "rest": 2
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 1,
+          "velocity": 75
+        },
+        {
+          "note": "C#2",
+          "duration": 1,
+          "velocity": 75
+        },
+        {
+          "rest": 1
+        },
+        {
+          "note": "C#2",
+          "duration": 1,
+          "velocity": 75
+        },
+        {
+          "note": "C#2",
+          "duration": 1,
+          "velocity": 75
+        },
+        {
+          "note": "C2",
+          "duration": 3,
+          "velocity": 75
+        },
+        {
+          "rest": 1.8
+        },
+        {
+          "note": "F1",
+          "duration": 4,
+          "velocity": 75
+        },
+        {
+          "note": "G1",
+          "duration": 4,
+          "velocity": 75
+        },
+        {
+          "note": "C2",
+          "duration": 2,
+          "velocity": 75
+        },
+        {
+          "note": "C2",
+          "duration": 2,
+          "velocity": 75
+        },
+        {
+          "note": "F1",
+          "duration": 3,
+          "velocity": 75
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "rest": 35.2
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "rest": 2.2
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C#2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C#2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C#2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C#2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C#2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C#2"
+          ],
+          "duration": 0.3,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "C#1",
+            "F1",
+            "A#1"
+          ],
+          "duration": 4,
+          "velocity": 75
+        },
+        {
+          "notes": [
+            "E1",
+            "G1",
+            "A#1",
+            "C2"
+          ],
+          "duration": 4,
+          "velocity": 75
+        },
+        {
+          "note": "F1",
+          "duration": 4,
+          "velocity": 75
+        },
+        {
+          "note": "G1",
+          "duration": 4,
+          "velocity": 75
+        },
+        {
+          "note": "C2",
+          "duration": 2,
+          "velocity": 75
+        },
+        {
+          "note": "C2",
+          "duration": 2,
+          "velocity": 75
+        },
+        {
+          "note": "F1",
+          "duration": 3,
+          "velocity": 75
+        },
+        {
+          "rest": 1.3
+        },
+        {
+          "rest": 46
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 110
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 110
+        },
+        {
+          "notes": [
+            "F1",
+            "G#1",
+            "C2",
+            "F2"
+          ],
+          "duration": 1,
+          "velocity": 110
+        },
+        {
+          "rest": 1
+        }
+      ],
+      "instrument": "sax"
+    }
+  ],
+  "id": "mlc8vrem2gae",
+  "createdAt": "2026-02-07T11:42:32.062Z",
+  "updatedAt": "2026-02-07T11:42:32.062Z"
+}

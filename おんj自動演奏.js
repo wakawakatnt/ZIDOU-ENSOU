@@ -3,10 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      4.2.0
 // @description  おんJピアノ自動演奏＆作曲ツール（ファイル入出力・途中再生強化）
-// @author       AI Assistant
+// @author       AI Assistantとワイ
 // @match        *://epiano.jp/*
 // @match        *://*.epiano.jp/*
-// @match        *://hayabusa.open2ch.net/lib/game/piano/*
+// @match        *://*.open2ch.net/lib/game/piano/*
 // @match        *://*.open2ch.net/*piano*
 // @grant        none
 // @run-at       document-end
